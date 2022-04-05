@@ -1,0 +1,25 @@
+{
+  "name": "nft-staking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubanrubi/NFT-Staking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubanrubi/NFT-Staking/issues"
+  },
+  "homepage": "https://github.com/Rubanrubi/NFT-Staking#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "truffle-plugin-verify": "^0.5.24"
+  }
+}
